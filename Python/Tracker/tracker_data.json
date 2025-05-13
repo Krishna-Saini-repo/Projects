@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Sherlok Holmes",
+        "category": "Book",
+        "ratings": 8,
+        "status": "Read"
+    },
+    {
+        "title": "Iron Man",
+        "category": "Movie",
+        "ratings": 6,
+        "status": "Complete"
+    }
+]
